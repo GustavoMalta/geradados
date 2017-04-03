@@ -1,0 +1,12 @@
+C:\fatec\Neto\Armazenamento de Dados\Armazenamento de Dados\bin\Debug\Armazenamento de Dados.exe.config
+C:\fatec\Neto\Armazenamento de Dados\Armazenamento de Dados\bin\Debug\Armazenamento de Dados.exe
+C:\fatec\Neto\Armazenamento de Dados\Armazenamento de Dados\bin\Debug\Armazenamento de Dados.pdb
+C:\fatec\Neto\Armazenamento de Dados\Armazenamento de Dados\obj\Debug\Armazenamento de Dados.csprojResolveAssemblyReference.cache
+C:\fatec\Neto\Armazenamento de Dados\Armazenamento de Dados\obj\Debug\Armazenamento_de_Dados.Form1.resources
+C:\fatec\Neto\Armazenamento de Dados\Armazenamento de Dados\obj\Debug\Armazenamento_de_Dados.Properties.Resources.resources
+C:\fatec\Neto\Armazenamento de Dados\Armazenamento de Dados\obj\Debug\Armazenamento de Dados.csproj.GenerateResource.Cache
+C:\fatec\Neto\Armazenamento de Dados\Armazenamento de Dados\obj\Debug\Armazenamento de Dados.exe
+C:\fatec\Neto\Armazenamento de Dados\Armazenamento de Dados\obj\Debug\Armazenamento de Dados.pdb
+C:\fatec\Neto\Armazenamento de Dados\Armazenamento de Dados\obj\Debug\Armazenamento_de_Dados.frmbombas.resources
+C:\fatec\Neto\Armazenamento de Dados\Armazenamento de Dados\obj\Debug\Armazenamento_de_Dados.frmfrent.resources
+C:\fatec\Neto\Armazenamento de Dados\Armazenamento de Dados\obj\Debug\Armazenamento_de_Dados.frmtipo.resources
